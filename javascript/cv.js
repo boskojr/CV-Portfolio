@@ -1,4 +1,4 @@
-let url = "/json/cv.json";
+let url = "cv.json";
 
 
 let expo = document.getElementById("expo");
